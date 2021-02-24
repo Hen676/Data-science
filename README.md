@@ -1,3 +1,3 @@
-# Data_science
+# Data-science
 
 Matlab Functions to manipulate Data
